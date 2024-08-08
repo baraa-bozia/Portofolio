@@ -1,0 +1,29 @@
+
+
+   :root {
+    /* main colors */
+    --main-color:  rgb(165, 45, 65);;
+    --second-color: bisque;
+    --color-pink: rgb(207, 117, 132);
+    --color-light-grey: rgb(163, 154, 154);
+
+
+    --img-border-radius: 7px;
+    
+
+    /* Spaces */
+    --space-xxs: 10px;
+    --space-xs: 18px;
+    --space-s: 30px;
+    --space-m: 40px;
+    --space-l: 100px;
+    --space-xl: 300px;
+    --space-xxl: 600px;
+}
+
+
+
+
+
+
+

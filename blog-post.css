@@ -1,0 +1,45 @@
+.main-avatar .avatar img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.main-avatar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.main-avatar p{
+    text-align: center;
+}
+
+.avatar h3,.price{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.catego{
+    text-align: center; 
+    font-size: 30px;
+    color: var(--main-color);
+}
+
+.icon{
+    color: var(--main-color);
+    margin-left:10px;
+    border: 2px solid var(--color-light-grey);
+    border-radius: 30%;
+    font-size: 30px;
+}
+
+.icon:hover{
+    color: var(--color-pink);
+}
+
+.contact-details{
+    margin-top:50px;
+    text-align: center;
+}
